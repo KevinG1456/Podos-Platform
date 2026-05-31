@@ -1,8 +1,5 @@
 
-
-
-
-
+<img width="1536" height="1024" alt="Copilot_20260530_135018" src="https://github.com/user-attachments/assets/75431022-700f-45df-92f5-736674f09b22" />
 
 
 # POD OS Platform LTD
