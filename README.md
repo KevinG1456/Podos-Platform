@@ -1,8 +1,8 @@
 
-<img width="1536" height="1024" alt="Copilot_20260530_135018" src="https://github.com/user-attachments/assets/75431022-700f-45df-92f5-736674f09b22" />
-
-
 # POD OS Platform LTD
+
+![POD OS Logo](https://yourdomain.com/assets/podos-logo.png)
+![POD OS Banner](https://yourdomain.com/assets/podos-banner.png)
 
 🌍 **Global Automation System** integrating Supabase, n8n, Twilio, and SendGrid.
 
@@ -23,3 +23,4 @@
 - Website: https://podosplatform.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Facebook: https://facebook.com/podosplatform
+- GitHub: https://github.com/podos-platform
