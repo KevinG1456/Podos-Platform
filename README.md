@@ -5,7 +5,7 @@
 
 
 
-# POD OS Platform
+# POD OS Platform LTD
 
 🌍 **Global Automation System** integrating Supabase, n8n, Twilio, and SendGrid.
 
