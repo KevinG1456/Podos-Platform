@@ -1,8 +1,8 @@
 
 # POD OS Platform LTD
 
-![POD OS Logo](https://yourdomain.com/assets/podos-logo.png)
-![POD OS Banner](https://yourdomain.com/assets/podos-banner.png)
+![POD OS Logo](https://github.com/KevinG1456/Podos-Platform/blob/main/Copilot_20260530_134824.png) 
+![POD OS Banner](https://github.com/KevinG1456/Podos-Platform/blob/main/Copilot_20260530_135018.png)
 
 🌍 **Global Automation System** integrating Supabase, n8n, Twilio, and SendGrid.
 
@@ -23,4 +23,5 @@
 - Website: https://podosplatform.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Facebook: https://facebook.com/podosplatform
-- GitHub: https://github.com/podos-platform
+- GitHub: https://github.com/KevinG1456/Podos-Platform/
+- Pinteres https://www.pinterest.com/KevinGatesppf/
