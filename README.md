@@ -21,7 +21,8 @@
 
 ## 🔗 Connect With Us
 - Website: https://podosplatform.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Facebook: https://facebook.com/podosplatform
+- LinkedIn: https://linkedin.com/in/kevin-gates-449906412/
+- Facebook: https://web.facebook.com/profile.php?id=61590507930838
 - GitHub: https://github.com/KevinG1456/Podos-Platform/
 - Pinteres https://www.pinterest.com/KevinGatesppf/
+- Youtube https://www.youtube.com/PodosPlatform
